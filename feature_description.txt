@@ -1,0 +1,24 @@
+Feature Description 
+Bedrooms - number of bedrooms 
+Bathrooms - number of bathrooms
+SquareFootageHouse - the square footage of the house in square meters 
+Location - whether the house is urban, rural or suburban 
+Age - the age of the house, all houses were built in the last 100 years
+PoolQuality - the quality of the pool, if it is 'None' then there is no pool
+HasPhotovoltaics - if the house has photovoltaics 
+HeatingType - the heating type of the house 
+HasFiberglass - if the house has the possibility of a fiberglass connection 
+IsFurnished - if the home is furnished 
+DateSinceForSale - the date the house was put on the market 
+HouseColor - the color of the house 
+PreviousOwnerName - the first name of the previous owner 
+HasFireplace - presence of a fireplace 
+KitchensQuality - quality of the kitchen(s)
+BathroomsQuality - quality of bathroom(s)
+BedroomsQuality - quality of the bedroom(s)
+LivingRoomsQuality - quality of the living room(s)
+SquareFootageGarden - the square footage of the garden in square meters 
+PreviousOwnerRating - the rating of the house by the previous owner 
+HeatingCosts - the heating costs in Euro per month for the whole house 
+Window_model_names - the name of the window model 
+Price - the price of the house in thousands of euros 
